@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Challenge.GeeksforGeeks;
+using System;
 
 namespace Challenge
 {
@@ -6,7 +7,8 @@ namespace Challenge
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Puzzle2.FindAges();
+            Console.ReadKey();
         }
     }
 }
