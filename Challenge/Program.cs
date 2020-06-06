@@ -1,5 +1,4 @@
-﻿using Challenge.GeeksforGeeks;
-using System;
+﻿using System;
 
 namespace Challenge
 {
@@ -7,7 +6,14 @@ namespace Challenge
     {
         static void Main(string[] args)
         {
-            Puzzle2.FindAges();
+            //GeeksforGeeks.Puzzle2.FindAges();
+            //var sw = new System.Diagnostics.Stopwatch();
+            //sw.Start();
+            var result = ProjectEuler.P22.GetAnswer();
+
+            //sw.Stop();
+            //Console.WriteLine(sw.Elapsed.ToString());
+            Console.WriteLine(result);
             Console.ReadKey();
         }
     }
