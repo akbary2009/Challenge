@@ -9,7 +9,8 @@ namespace Challenge
             //GeeksforGeeks.Puzzle2.FindAges();
             //var sw = new System.Diagnostics.Stopwatch();
             //sw.Start();
-            var result = ProjectEuler.P1.GetAnswer();
+            //var result = ProjectEuler.P1.GetAnswer();
+            var result = ProjectEuler.P2.GetAnswer();
             //var result = ProjectEuler.P22.GetAnswer();
             //var result = ProjectEuler.P23.GetAnswer();
             //var result = ProjectEuler.P24.GetAnswer();
