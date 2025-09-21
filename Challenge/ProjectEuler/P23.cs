@@ -4,6 +4,9 @@ using System.Threading.Tasks;
 
 namespace Challenge.ProjectEuler
 {
+    /// <summary>
+    /// https://projecteuler.net/problem=23
+    /// </summary>
     public static class P23
     {
         private const int MaxInteger = 28123;

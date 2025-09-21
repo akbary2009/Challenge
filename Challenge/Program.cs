@@ -10,11 +10,7 @@ namespace Challenge
             //var sw = new System.Diagnostics.Stopwatch();
             //sw.Start();
             //var result = ProjectEuler.P1.GetAnswer();
-            var result = ProjectEuler.P21.GetAnswer();
-            //var result = ProjectEuler.P22.GetAnswer();
-            //var result = ProjectEuler.P23.GetAnswer();
-            //var result = ProjectEuler.P24.GetAnswer();
-            //var result = ProjectEuler.P25.GetAnswer();
+            var result = ProjectEuler.P25.GetAnswer();
 
             //sw.Stop();
             //Console.WriteLine(sw.Elapsed.ToString());

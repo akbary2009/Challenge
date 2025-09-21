@@ -3,6 +3,9 @@ using System.Linq;
 
 namespace Challenge.ProjectEuler
 {
+    /// <summary>
+    /// https://projecteuler.net/problem=24
+    /// </summary>
     public static class P24
     {
         public static string GetAnswer()

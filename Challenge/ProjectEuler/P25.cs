@@ -3,7 +3,10 @@ using System.Numerics;
 
 namespace Challenge.ProjectEuler
 {
-    public class P25
+    /// <summary>
+    /// https://projecteuler.net/problem=25
+    /// </summary>
+    public static class P25
     {
         public static int GetAnswer()
         {

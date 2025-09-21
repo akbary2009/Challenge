@@ -4,6 +4,9 @@ using System.Threading.Tasks;
 
 namespace Challenge.ProjectEuler
 {
+    /// <summary>
+    /// https://projecteuler.net/problem=22
+    /// </summary>
     public static class P22
     {
         private const string FileName = @"C:\Users\user\Downloads\p022_names.txt";
